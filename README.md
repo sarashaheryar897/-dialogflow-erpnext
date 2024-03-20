@@ -16,7 +16,7 @@ Requests library (for HTTP requests)
 ## Installation  
 ### 1-Clone the repository:
 
-git clone https://github.com/sarashaheryar897/dialogflow-erpnext.git
+git clone https://github.com/sarashaheryar897/-dialogflow-erpnext.git
 
 
 ### 2-Install dependencies:
